@@ -1,9 +1,7 @@
-<h2>Hi, I'm Prashant 👋💻</h2>
-
 <table width="100%">
 <tr>
 <td width="65%" valign="middle">
-  <h1>PRASHANT</h1>
+  <h1>Hi, I'm Prashant 👋💻</h1>
   <p style="font-size:18px">threat intel developer, AI/ML builder &amp; full-stack engineer</p>
 </td>
 <td width="35%" align="center">
