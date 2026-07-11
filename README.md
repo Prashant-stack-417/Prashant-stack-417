@@ -1,22 +1,16 @@
+<h2>Hi, I'm Prashant 👋💻</h2>
+
 <table width="100%">
 <tr>
 <td width="65%" valign="middle">
-  <h1>I'm Prashant</h1>
-  <p><b>Threat Intel | AI/ML | Full Stack Developer</b></p>
+  <h1>PRASHANT</h1>
+  <p style="font-size:18px">threat intel developer, AI/ML builder &amp; full-stack engineer</p>
 </td>
 <td width="35%" align="center">
   <img src="./avatar.png" width="220" alt="avatar"/>
 </td>
 </tr>
 </table>
-
-<h3 align="center">Hi There, I'm Prashant! 👋</h3>
-
-<p align="center"><b>Cybersecurity & AI enthusiast | Full-Stack Developer</b></p>
-
-<p align="center">
-I build threat-intelligence tooling, AI-powered applications, and full-stack projects — mixing Python, TypeScript, and infrastructure automation. I enjoy digging into how systems break and how to secure them.
-</p>
 
 ---
 
@@ -41,7 +35,6 @@ I build threat-intelligence tooling, AI-powered applications, and full-stack pro
 ### 📫 Reach Me Out
 
 <p align="center">
-<!-- Replace # with your real links, delete any rows you don't use -->
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
