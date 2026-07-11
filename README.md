@@ -1,6 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:16213E&height=280&section=header&text=I'm%20Prashant&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Threat%20Intel%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header banner" width="100%"/>
-</p>
+<table width="100%">
+<tr>
+<td width="65%" valign="middle">
+  <h1>I'm Prashant</h1>
+  <p><b>Threat Intel | AI/ML | Full Stack Developer</b></p>
+</td>
+<td width="35%" align="center">
+  <img src="./avatar.png" width="220" alt="avatar"/>
+</td>
+</tr>
+</table>
 
 <h3 align="center">Hi There, I'm Prashant! 👋</h3>
 
