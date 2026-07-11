@@ -1,16 +1,67 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:16213E&height=280&section=header&text=I'm%20Prashant&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Threat%20Intel%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="header banner" width="100%"/>
+</p>
 
-<!--
-**Prashant-stack-417/Prashant-stack-417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi There, I'm Prashant! 👋</h3>
 
-Here are some ideas to get you started:
+<p align="center"><b>Cybersecurity & AI enthusiast | Full-Stack Developer</b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+I build threat-intelligence tooling, AI-powered applications, and full-stack projects — mixing Python, TypeScript, and infrastructure automation. I enjoy digging into how systems break and how to secure them.
+</p>
+
+---
+
+### 📌 Some Updates
+
+- 🛡️ I'm currently building a **Threat Intelligence Platform** with OSINT feeds, MongoDB, and the ELK Stack
+- 🌾 Exploring **AI/ML** through projects like CropGuard-AI
+- ☁️ Learning **Infrastructure as Code** and automated deployment pipelines
+- 🤝 Looking to collaborate on open-source **security & AI tooling**
+- 💬 Ask me about Python, threat intel, or full-stack (MERN) development
+
+---
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,mongodb,elasticsearch,linux,docker,git,html,css&theme=dark" alt="tech icons"/>
+</p>
+
+---
+
+### 📫 Reach Me Out
+
+<p align="center">
+<!-- Replace # with your real links, delete any rows you don't use -->
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prashant-stack-417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-stack-417&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-stack-417&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love."</i><br/>
+  <b>— Pete Cordell</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prashant-stack-417&style=flat-square&color=blue" alt="Profile views"/>
+</p>
