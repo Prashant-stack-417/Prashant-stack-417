@@ -1,7 +1,9 @@
+<h2>Hi, I'm Prashant 👋💻</h2>
+
 <table width="100%">
 <tr>
 <td width="65%" valign="middle">
-  <h1>Hi, I'm Prashant 👋💻</h1>
+  <h1>PRASHANT</h1>
   <p style="font-size:18px">threat intel developer, AI/ML builder &amp; full-stack engineer</p>
 </td>
 <td width="35%" align="center">
@@ -33,10 +35,10 @@
 ### 📫 Reach Me Out
 
 <p align="center">
-<a href="https://github.com/Prashant-stack-417" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="www.linkedin.com/in/prashant-ambalia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/prashant_.8_?igsh=NGUxeDhscXM4c2Zn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:ambaliaprashant4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -61,6 +63,8 @@
 
 ---
 
+### 🏆 Trophies
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prashant-stack-417&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Prashant-stack-417&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophy badge"/>
 </p>
