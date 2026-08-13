@@ -21,7 +21,7 @@
 - 🎓 B.Tech Computer Science and Engineering — **CHARUSAT, DEPSTAR**
 - 🔐 Focused on **Cybersecurity**
 - 🛡️ Ex-Intern at **Infotact Solutions**, Bengaluru — built a Threat Intelligence Platform (OSINT + SIEM)
-- 🏗️ Recently shipped an **Threat Intelligence Platform**
+- 🏗️ Recently shipped an **Banking Threat Intelligence Platform (Flask + OSINT + ELK Stack)**
 - 📍 Based in Surat, Gujarat, India
 - 💼 **Open to Software Engineering internships**
 
