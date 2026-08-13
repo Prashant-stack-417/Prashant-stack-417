@@ -53,14 +53,13 @@
 Python/Flask platform with MongoDB + Elasticsearch/Kibana, multi-source OSINT ingestion, and iptables-based enforcement.
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **🌱 CropGuard-AI**
 Python-based project.
 
 </td>
+</tr>
 <td width="50%">
 
 **💬 MeetingMind**
