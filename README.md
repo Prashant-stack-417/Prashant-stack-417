@@ -18,10 +18,10 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech Computer Science and Engineering, 7th Semester — **CHARUSAT, DEPSTAR**
-- 🔐 Focused on **Cybersecurity, DevSecOps, and Cloud Infrastructure**
+- 🎓 B.Tech Computer Science and Engineering — **CHARUSAT, DEPSTAR**
+- 🔐 Focused on **Cybersecurity**
 - 🛡️ Ex-Intern at **Infotact Solutions**, Bengaluru — built a Threat Intelligence Platform (OSINT + SIEM)
-- 🏗️ Recently shipped an **Enterprise IaC pipeline** (Terraform + AWS + K8s + full DevSecOps scan chain)
+- 🏗️ Recently shipped an **Threat Intelligence Platform**
 - 📍 Based in Surat, Gujarat, India
 - 💼 **Open to Software Engineering internships**
 
@@ -30,7 +30,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,react,nodejs,express,mongodb,mysql,aws,docker,kubernetes,terraform,githubactions,git,linux,elasticsearch,tailwind,html,css,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,react,nodejs,express,mongodb,mysql,docker,kubernetes,githubactions,git,linux,tailwind,html,css,vscode&perline=11" />
 </p>
 
 <details>
@@ -51,12 +51,6 @@
 
 **🏦 Finance Banking Threat Intelligence Platform**
 Python/Flask platform with MongoDB + Elasticsearch/Kibana, multi-source OSINT ingestion, and iptables-based enforcement.
-
-</td>
-<td width="50%">
-
-**☁️ E-Commerce Enterprise IaC Pipeline**
-Terraform-provisioned AWS infra, Kubernetes + Docker, GitHub Actions CI/CD with a full security-scan chain (SonarQube, Trivy, Checkov, ZAP).
 
 </td>
 </tr>
