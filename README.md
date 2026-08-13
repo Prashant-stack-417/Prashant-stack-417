@@ -66,8 +66,6 @@ Python-based project.
 TypeScript/JavaScript project.
 
 </td>
-</tr>
-<tr>
 <td width="50%" colspan="2">
 
 **♻️ ZeroWasteBite**
