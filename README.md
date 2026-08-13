@@ -1,70 +1,124 @@
-<h2>Hi, I'm Prashant 👋💻</h2>
+<div align="center">
 
-<table width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Prashant&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20DevSecOps%20%7C%20Cloud%20Infrastructure&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+CHARUSAT+%2F+DEPSTAR;DevSecOps+%2B+Cloud+%2B+Security+Automation;Terraform+%C2%B7+AWS+%C2%B7+Docker+%C2%B7+Kubernetes;Open+to+Software+Engineering+Internships" />
+</a>
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prashant-stack-417&label=Profile%20Views&color=2EC4B6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Prashant-stack-417?label=Followers&style=flat&color=2EC4B6" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20SWE%20Internships-brightgreen?style=flat" alt="status" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 B.Tech Computer Science and Engineering, 7th Semester — **CHARUSAT, DEPSTAR**
+- 🔐 Focused on **Cybersecurity, DevSecOps, and Cloud Infrastructure**
+- 🛡️ Ex-Intern at **Infotact Solutions**, Bengaluru — built a Threat Intelligence Platform (OSINT + SIEM)
+- 🏗️ Recently shipped an **Enterprise IaC pipeline** (Terraform + AWS + K8s + full DevSecOps scan chain)
+- 📍 Based in Surat, Gujarat, India
+- 💼 **Open to Software Engineering internships**
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,react,nodejs,express,mongodb,mysql,aws,docker,kubernetes,terraform,githubactions,git,linux,elasticsearch,kibana,tailwind,html,css,vscode&perline=11" />
+</p>
+
+<details>
+<summary><b>🔍 Security & Cloud Toolbelt</b></summary>
+<br/>
+
+`SonarQube` · `Trivy` · `Checkov` · `OWASP ZAP` · `Dependency-Check` · `AlienVault OTX` · `URLhaus` · `VirusTotal` · `ELK Stack` · `iptables`
+
+</details>
+
+---
+
+### 📌 Featured Projects
+
+<table>
 <tr>
-<td width="65%" valign="middle">
-  <h1>PRASHANT</h1>
-  <p style="font-size:18px">threat intel developer, AI/ML builder &amp; full-stack engineer</p>
+<td width="50%">
+
+**🏦 Finance Banking Threat Intelligence Platform**
+Python/Flask platform with MongoDB + Elasticsearch/Kibana, multi-source OSINT ingestion, and iptables-based enforcement.
+
 </td>
-<td width="35%" align="center">
-  <img src="./avatar.png" width="220" alt="avatar"/>
+<td width="50%">
+
+**☁️ E-Commerce Enterprise IaC Pipeline**
+Terraform-provisioned AWS infra, Kubernetes + Docker, GitHub Actions CI/CD with a full security-scan chain (SonarQube, Trivy, Checkov, ZAP).
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌱 CropGuard-AI**
+Python-based project.
+
+</td>
+<td width="50%">
+
+**💬 MeetingMind**
+TypeScript/JavaScript project.
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+**♻️ ZeroWasteBite**
+TypeScript/JavaScript project.
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 📌 Some Updates
-
-- 🛡️ I'm currently building a **Threat Intelligence Platform** with OSINT feeds, MongoDB, and the ELK Stack
-- 🌾 Exploring **AI/ML** through projects like CropGuard-AI
-- ☁️ Learning **Infrastructure as Code** and automated deployment pipelines
-- 🤝 Looking to collaborate on open-source **security & AI tooling**
-- 💬 Ask me about Python, threat intel, or full-stack (MERN) development
-
----
-
-### 🧰 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,mongodb,elasticsearch,linux,docker,git,html,css&theme=dark" alt="tech icons"/>
-</p>
-
----
-
-### 📫 Reach Me Out
-
-<p align="center">
-<a href="https://github.com/Prashant-stack-417" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Prashant-stack-417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prashant-stack-417&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashant-stack-417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-stack-417&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-stack-417&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-stack-417&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+> 🏆 Trophies are generated by your own GitHub Actions workflow (`.github/workflows/trophy.yml`) — keep the line below as-is, it points at the SVG your action commits.
+
+<p align="center">
+  <img src="./trophy.svg" alt="trophies" />
 </p>
 
 ---
 
+### 📈 Contribution Graph
+
 <p align="center">
-  <i>"Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love."</i><br/>
-  <b>— Pete Cordell</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant-stack-417&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-### 🏆 Trophies
+### 🤝 Connect with Me
 
 <p align="center">
-  
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Prashant-stack-417"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
