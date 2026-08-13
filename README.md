@@ -30,7 +30,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,react,nodejs,express,mongodb,mysql,aws,docker,kubernetes,terraform,githubactions,git,linux,elasticsearch,kibana,tailwind,html,css,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,react,nodejs,express,mongodb,mysql,aws,docker,kubernetes,terraform,githubactions,git,linux,elasticsearch,tailwind,html,css,vscode&perline=11" />
 </p>
 
 <details>
@@ -89,12 +89,12 @@ TypeScript/JavaScript project.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashant-stack-417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Prashant-stack-417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-stack-417&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-stack-417&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prashant-stack-417&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
